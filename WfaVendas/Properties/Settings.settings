@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WfaVendas.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LP2ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=Apolo;Initial Catalog=LP2;User ID=DS230749;Password=26072007Gg;Encrypt=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=Apolo;Initial Catalog=LP2;User ID=DS230749;Password=26072007Gg;Encrypt=False</Value>
+    </Setting>
+    <Setting Name="LP2SunnyGo" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=SUNNYGO\SUNNYGOEXPRESS;Initial Catalog=LP2;Integrated Security=True;TrustServerCertificate=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=SUNNYGO\SUNNYGOEXPRESS;Initial Catalog=LP2;Integrated Security=True;TrustServerCertificate=True</Value>
+    </Setting>
+    <Setting Name="LP2JuliaBd" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=apolo;Initial Catalog=LP2;Persist Security Info=True;User ID=ds230205;Password=J13m23@7;TrustServerCertificate=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=apolo;Initial Catalog=LP2;Persist Security Info=True;User ID=ds230205;Password=J13m23@7;TrustServerCertificate=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
